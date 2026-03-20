@@ -4,7 +4,7 @@ Code and data relating to the article: “Active-site factors control 3'-splice-
 
 ### Overexpression of C* factors mutants
 
-This folder contains alternative splicing analysis from RNA sequencing data of overexpressed C* factor mutants. Input data, code, requirements, and output plots are shared.
+This folder contains alternative splicing analysis from RNA sequencing data of overexpressed C* factor mutants. Input data, code, requirements, output files of significant events data, and output plots are shared.
 
 ### Machine learning
 
