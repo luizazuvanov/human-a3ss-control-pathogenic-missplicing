@@ -1,6 +1,6 @@
-# Active-site factors control 3'-splice-site choice and pathogenic mis-splicing in the human spliceosome
+# The spliceosome active centre governs tandem 3′ splice-site choice and pathogenic mis-splicing
 
-Code and data relating to the article: “Active-site factors control 3'-splice-site choice and pathogenic mis-splicing in the human spliceosome” (Marciano, G. and Eckert, S., Zuvanov, L. *et al.*)
+Code and data relating to the article: “The spliceosome active centre governs tandem 3′ splice-site choice and pathogenic mis-splicing” (Marciano, G. and Eckert, S., and Zuvanov, L. *et al.*)
 
 ### Overexpression of C* factors mutants
 
