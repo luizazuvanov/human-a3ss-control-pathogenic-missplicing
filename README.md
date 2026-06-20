@@ -1,6 +1,6 @@
-# The spliceosome active centre governs tandem 3′ splice-site choice and pathogenic mis-splicing
+# Structural basis for alternative 3′ splice-site selection in the spliceosome active center
 
-Code and data relating to the article: “The spliceosome active centre governs tandem 3′ splice-site choice and pathogenic mis-splicing” (Marciano, G. and Eckert, S., and Zuvanov, L. *et al.*)
+Code and data relating to the article: “Structural basis for alternative 3′ splice-site selection in the spliceosome active center” (Marciano, G. and Eckert, S., and Zuvanov, L. *et al.*)
 
 ### Overexpression of C* factors mutants
 
