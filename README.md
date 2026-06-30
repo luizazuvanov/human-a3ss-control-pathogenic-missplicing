@@ -1,6 +1,6 @@
-# Structural basis for alternative 3′ splice-site selection in the spliceosome active center
+# The spliceosome active center reads a cis-regulatory code to control alternative splicing during catalysis
 
-Code and data relating to the article: “Structural basis for alternative 3′ splice-site selection in the spliceosome active center” (Marciano, G. and Eckert, S., and Zuvanov, L. *et al.*)
+Code and data relating to the article: “The spliceosome active center reads a cis-regulatory code to control alternative splicing during catalysis” (Marciano, G. and Eckert, S., and Zuvanov, L. *et al.*)
 
 ### Overexpression of C* factors mutants
 
